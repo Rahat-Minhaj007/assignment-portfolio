@@ -1,0 +1,92 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+.navbar ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    float:right;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.navbar li{
+    display: inline;
+    padding-right:  50px;
+    
+
+}
+.navbar a{
+    text-decoration: none;
+    width: 300px;
+    padding: 5px;
+    color: black;
+    font-weight: 700;
+
+}
+.nav{
+    height: 60px;
+
+}
+.highlight-colour{
+    color: lightsalmon;
+}
+.high-clr{
+    color: rgb(70, 64, 116);
+}
+h1{
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+   
+
+    
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.half-width{
+    width:30%;
+    float: left;
+    margin-left: 11%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 100%;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 200px;
+    
+}
+.third{
+    text-align: center;
+    
+}
+.thid-sec{
+    background-color: lightgray;
+}
+
+
+
+
+

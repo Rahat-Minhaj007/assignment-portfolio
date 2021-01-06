@@ -29,11 +29,12 @@ body{
 
 }
 .nav{
-    height: 60px;
+    height: 10px;
 
 }
 .highlight-colour{
     color: lightsalmon;
+    margin-bottom:20% ;
 }
 .high-clr{
     color: rgb(70, 64, 116);
@@ -78,6 +79,7 @@ section{
     font-weight: 700;
     border-radius: 5px;
     margin-top: 200px;
+    margin-bottom: 60px;
     
     
 }
@@ -136,22 +138,21 @@ section{
 }
 .last-pic{
     background-image: url("images/bottom.png");
-   background-size: 800px 150px;
+    background-size: 1000px 250px;
     width: 60%;
     padding: 10px 20px;
     margin: 20px;
     background-position: contain;
     background-repeat: no-repeat;
-    margin-left: 500px;
+    margin-left: 460px;
+    margin-top: 125px;
     
-    
-   
-
 }
 
 
 #last-text{
     color: white;
+    margin-bottom: 60px;
     
 }
 #stay{
@@ -174,9 +175,7 @@ section{
     color: white;
     font-weight: 700;
     border-radius: 5px;
-    margin-bottom: 200px;
-    margin-right: 600px;
-    margin-top: 200px;
+    margin-left: 480;
 }
 .icon{
   float: left;
@@ -186,6 +185,24 @@ section{
   
   
 
+}
+.first-part{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.sec-part{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.last-part{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
 }
 
 

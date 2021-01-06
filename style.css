@@ -134,11 +134,48 @@ section{
     border-image:  linear-gradient(180deg,cyan,blue);
     border-image-slice: 1;
 }
-.final-text{
-    color: white;
+.last-pic{
+    background-image: url("images/bottom.png");
+   background-size: 800px 150px;
+    width: 60%;
+    padding: 10px 20px;
+    margin: 20px;
+    background-position: contain;
+    background-repeat: no-repeat;
+    margin-left: 500px;
+    
+   
+
 }
-.bottom{
+
+}
+#last-text{
+    color: white;
+    
+}
+#stay{
+    text-align: center;
     color: gray;
+  
+}
+#mail{
+    text-align: center;
+    color: rgb(70, 64, 116);
+}
+.ali{
+    padding: 10px;
+    margin-top: 40%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-bottom: 200px;
+    margin-right: 600px;
+    margin-top: 200px;
 }
 
 
